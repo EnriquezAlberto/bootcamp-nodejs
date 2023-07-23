@@ -1,0 +1,28 @@
+{
+  "name": "bootcamp-nodejs",
+  "version": "1.0.0",
+  "description": "node full",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnriquezAlberto/bootcamp-nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "curso",
+    "midudev"
+  ],
+  "author": "mid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnriquezAlberto/bootcamp-nodejs/issues"
+  },
+  "homepage": "https://github.com/EnriquezAlberto/bootcamp-nodejs#readme",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  }
+}
