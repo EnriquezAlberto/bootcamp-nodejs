@@ -1,6 +1,5 @@
-const {sum } = require('../sum')
+const { sum } = require("../sum");
 
-
-console.log(sum(55,3));
+console.log(sum(55, 3));
 
 //commonjs
